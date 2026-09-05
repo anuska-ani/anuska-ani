@@ -59,6 +59,11 @@ Python • C • C++ • HTML • CSS • JavaScript • SQL • Git/GitHub • 
 ![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/subham2807?theme=dark&font=baloo)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/subham2807/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subham0728&theme=radical&no-frame=false&no-bg=false&margin-w=4)
