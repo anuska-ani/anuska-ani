@@ -1,80 +1,254 @@
-# 💫Hi, I'm Anuska Pati
-💫 B.Tech AI & ML Student | Aspiring AI/ML Engineer | Web Developer | Tech Enthusiast 🇮🇳
-
-I'm a B.Tech Artificial Intelligence & Machine Learning student passionate about building practical projects, exploring AI-driven solutions, and turning ideas into real-world applications. 🚀
-
-I enjoy learning by building — experimenting with technologies, solving problems, and continuously improving my development skills.
-
-🚀 What I'm Currently Working On
-🔭 ROAMLY — A smart Travel & Tourism Web Application with destination discovery, hotels, cafés, attractions, maps, trip planning, safety features, and nearby news.
-💻 Building full-stack and web-based projects using modern development tools.
-🤖 Exploring Artificial Intelligence & Machine Learning and how AI can be integrated into real-world applications.
-🏆 Working on hackathon/SIH-oriented projects focused on solving practical problems.
-📊 Learning how to work with databases, APIs, data, and interactive dashboards.
-🌱 Currently Learning
-🐍 Python
-🧠 Artificial Intelligence & Machine Learning
-📊 Data Analysis
-🗄️ SQL & Database Management
-🌐 HTML, CSS & JavaScript
-⚛️ React
-🔌 APIs & API Integration
-🧩 Data Structures & Algorithms
-🔧 Git & GitHub
-💡 IoT & emerging technologies
-👯 I'm Looking to Collaborate On
-🌐 Web Development Projects
-🤖 AI/ML Applications
-🏆 Hackathon & SIH Projects
-📊 Data-driven Applications
-🌍 Real-world problem-solving solutions
-💡 Innovative student projects
-💬 Ask Me About
-
-Python • C • C++ • HTML • CSS • JavaScript • SQL • Git/GitHub • AI/ML • APIs • Web Development
-
-### 🚀 Some of My Projects
-- 🌍 **ROAMLY** — Travel & Tourism Platform
-- 🍔 **CravePoint** — Campus Cafeteria Ordering System
-- 🤖 **JARVIS** — Python-based AI Voice Assistant
-- 🌦️ **Weather Dashboard** — Weather App using APIs
-- 🎬 **Mini Movie Explorer** — Movie Discovery Application
-- 📊 **Netflix SQL Analysis** — Data Analysis using SQL
-- 🛒 **Amazon Clone** — Front-End E-commerce Project
-
-**"Build → Break → Learn → Improve 🚀"**
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___sam.here__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Subhamcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamyadav810255@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+👋 Hi, I'm Anuska Pati
+AI & ML Student · Aspiring AI/ML Engineer · Web Developer
+
+<p> <i>Building practical solutions with AI, data & web technologies.</i> </p>
+
+<p> <a href="https://github.com/anuska-ani"> <img src="https://img.shields.io/badge/GitHub-anuska--ani-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/anuskapati"> <img src="https://img.shields.io/badge/LinkedIn-Anuska%20Pati-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://leetcode.com/u/anuskaleets/"> <img src="https://img.shields.io/badge/LeetCode-anuskaleets-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="mailto:anuskapati3@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
 </div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🧠 LeetCode
+🧠 About Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/subham2807?theme=dark&font=baloo)
+I'm a B.Tech Artificial Intelligence & Machine Learning student who enjoys turning ideas into practical software.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/subham2807/)
+My interests lie at the intersection of Artificial Intelligence, Machine Learning, Web Development and Data. I particularly enjoy projects where technology can solve a real-world problem rather than simply demonstrating a concept.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subham0728&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🎓 B.Tech — Artificial Intelligence & Machine Learning
+🤖 Interested in AI/ML & intelligent applications
+🌐 Building web & full-stack projects
+📊 Exploring data analysis & databases
+🏆 Interested in hackathons and real-world problem solving
+📚 Always learning something new
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I learn best by building — Build → Break → Learn → Improve. 🚀
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subham0728&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 What I'm Currently Building
+🌍 ROAMLY — Smart Travel & Tourism Platform
 
----
-[![](https://komarev.com/ghpvc/?username=subham0728&icon=0&color=0)](https://visitcount.itsvg.in)
+A travel-focused web application designed to make exploring destinations easier, smarter and safer.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Current concept includes:
+
+📍 Destination Discovery
+        ↓
+🏨 Hotels · ☕ Cafés · 🎯 Attractions
+        ↓
+🗺️ Maps & Location Services
+        ↓
+🧳 Trip Planning
+        ↓
+🛡️ Tourist Safety
+        ↓
+📰 Nearby / Local News
+        ↓
+🤖 AI-powered Travel Assistance
+
+I'm developing ROAMLY as a practical project while exploring APIs, databases, web development, AI integration and location-based features.
+
+💻 Featured Projects
+
+<table> <tr> <td width="50%">
+
+🌍 ROAMLY
+
+Smart Travel & Tourism Platform
+
+Travel discovery, maps, trip planning, safety features and nearby news.
+
+JavaScript APIs Web Development
+
+</td>
+
+<td width="50%">
+
+🍔 CravePoint
+
+Campus Cafeteria Ordering System
+
+A digital cafeteria ordering concept designed to simplify campus food ordering.
+
+HTML CSS JavaScript
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+🤖 JARVIS
+
+Python Voice Assistant
+
+A Python-based voice assistant exploring automation, voice interaction and AI concepts.
+
+Python AI Automation
+
+</td>
+
+<td width="50%">
+
+🌦️ Weather Dashboard
+
+API-based Weather Application
+
+Interactive weather application using APIs to retrieve and display weather information.
+
+JavaScript APIs HTML CSS
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+🎬 Mini Movie Explorer
+
+Movie Discovery Application
+
+Explore movie information through API integration and a simple web interface.
+
+JavaScript APIs
+
+</td>
+
+<td width="50%">
+
+📊 Netflix SQL Analysis
+
+Data Analysis Project
+
+SQL-based exploration and analysis of a Netflix dataset.
+
+SQL Data Analysis
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+🛒 Amazon Clone
+
+E-Commerce Front-End
+
+A front-end project created to practice layouts, components and e-commerce UI concepts.
+
+HTML CSS JavaScript
+
+</td>
+
+<td width="50%">
+
+💡 More Coming Soon...
+
+Currently experimenting with AI/ML, data, APIs and full-stack development.
+
+Learning Building Experimenting
+
+</td> </tr> </table>
+
+🛠️ Tech Stack
+Languages
+
+<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,js" /> </p>
+
+Web Development
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /> </p>
+
+Databases & Tools
+
+<p> <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" /> </p>
+
+Currently Exploring
+
+<p> <img src="https://skillicons.dev/icons?i=python,react,mysql" /> </p>
+
+AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
+
+📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuska-ani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuska-ani&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuska-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+🧩 Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/anuskaleets?theme=dark&font=baloo" width="500"/>
+
+<br><br>
+
+<a href="https://leetcode.com/u/anuskaleets/">
+
+<img src="https://img.shields.io/badge/LeetCode-anuskaleets-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</div>
+
+🏆 Achievements & Leadership
+🏅	Achievement
+🥉	3rd Prize — Interdepartmental Extempore Competition in Mother Tongue
+🥇	1st Prize & Gold Medal — Interdepartmental Cricket Competition
+🏆	Hackathon / SIH Project Development
+📚	Head — Literacy Club
+📰	Editor — Department Magazine
+🎉	Coordinator — Amiphoria 4.0
+🎯 My Current Focus
+        ┌─────────────────────┐
+        │   Artificial        │
+        │   Intelligence      │
+        │      & ML           │
+        └──────────┬──────────┘
+                   │
+        ┌──────────▼──────────┐
+        │    Data + APIs      │
+        └──────────┬──────────┘
+                   │
+        ┌──────────▼──────────┐
+        │   Web Development   │
+        └──────────┬──────────┘
+                   │
+        ┌──────────▼──────────┐
+        │ Real-World Projects │
+        └──────────┬──────────┘
+                   │
+        ┌──────────▼──────────┐
+        │   Better Solutions  │
+        └─────────────────────┘
+Learning → Building → Experimenting → Improving
+🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/anuska-ani"> <img src="https://img.shields.io/badge/GitHub-anuska--ani-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://linkedin.com/in/anuskapati"> <img src="https://img.shields.io/badge/LinkedIn-Anuska%20Pati-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
+
+<a href="https://instagram.com/_blackrosi_"> <img src="https://img.shields.io/badge/Instagram-_blackrosi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<a href="mailto:anuskapati3@gmail.com"> <img src="https://img.shields.io/badge/Email-anuskapati3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+</div>
+
+<div align="center">
+
+💫 "Build → Break → Learn → Improve."
+
+<img src="https://komarev.com/ghpvc/?username=anuska-ani&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+Thanks for visiting my profile! 🚀
+
+</div>
