@@ -164,7 +164,7 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 📈 GitHub Activity
 
-<div align="center">
+[<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anuska-ani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
@@ -178,7 +178,7 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuska-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+</div>](https://github.com/anuska-ani/anuska-ani.git)
 
 🧩 Problem Solving
 
