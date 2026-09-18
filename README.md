@@ -164,21 +164,9 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 📈 GitHub Activity
 
-[<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuska-ani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuska-ani&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuska-ani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>](https://github.com/anuska-ani/anuska-ani.git)
+![](https://github-readme-stats.shion.dev/api?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=subham0728&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=subham0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 🧩 Problem Solving
 
