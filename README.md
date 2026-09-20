@@ -7,8 +7,7 @@ AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
 </div>
 
-##🧠 About Me
-
+##🧠
 I'm a B.Tech Artificial Intelligence & Machine Learning student who enjoys turning ideas into practical software.
 
 My interests lie at the intersection of Artificial Intelligence, Machine Learning, Web Development and Data. I particularly enjoy projects where technology can solve a real-world problem rather than simply demonstrating a concept.
@@ -144,9 +143,9 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=anuska-ani\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anuska-ani\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuska-ani\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=anuska-ani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 
