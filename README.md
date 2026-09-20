@@ -177,23 +177,13 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 📰 **Editor** — Department Magazine  
 🎉 **Coordinator** — Amiphoria 4.0
 Learning → Building → Experimenting → Improving
-<a href="https://github.com/anuska-ani"> <img src="https://img.shields.io/badge/GitHub-anuska--ani-181717?style=for-the-badge&logo=github"/> </a>
+## 🌐 Let's Connect
 
-<a href="https://linkedin.com/in/anuskapati"> <img src="https://img.shields.io/badge/LinkedIn-Anuska%20Pati-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
-<a href="https://instagram.com/_blackrosi_"> <img src="https://img.shields.io/badge/Instagram-_blackrosi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-
-<a href="mailto:anuskapati3@gmail.com"> <img src="https://img.shields.io/badge/Email-anuskapati3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-</div>
-
-<div align="center">
-
-💫 "Build → Break → Learn → Improve."
-
-<img src="https://komarev.com/ghpvc/?username=anuska-ani&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-<br><br>
+**GitHub** — `anuska-ani`  
+**LinkedIn** — `anuskapati`  
+**Instagram** — `_blackrosi_`  
+**LeetCode** — `anuskaleets`  
+**Email** — `anuskapati3@gmail.com`
 
 Thanks for visiting my profile! 🚀
 
