@@ -152,21 +152,6 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=anuska-ani\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-🧩 Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/anuskaleets?theme=dark&font=baloo" width="500"/>
-
-<br><br>
-
-<a href="https://leetcode.com/u/anuskaleets/">
-
-<img src="https://img.shields.io/badge/LeetCode-anuskaleets-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
 
 ## 🏆 Achievements & Leadership
 
