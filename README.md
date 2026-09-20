@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 👋 Hi, I'm Anuska Pati
 AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
