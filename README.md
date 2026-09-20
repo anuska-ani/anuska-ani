@@ -24,29 +24,6 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
 
 I learn best by building — Build → Break → Learn → Improve. 🚀
 
-🚀 What I'm Currently Building
-🌍 ROAMLY — Smart Travel & Tourism Platform
-
-A travel-focused web application designed to make exploring destinations easier, smarter and safer.
-
-Current concept includes:
-
-📍 Destination Discovery
-        ↓
-🏨 Hotels · ☕ Cafés · 🎯 Attractions
-        ↓
-🗺️ Maps & Location Services
-        ↓
-🧳 Trip Planning
-        ↓
-🛡️ Tourist Safety
-        ↓
-📰 Nearby / Local News
-        ↓
-🤖 AI-powered Travel Assistance
-
-I'm developing ROAMLY as a practical project while exploring APIs, databases, web development, AI integration and location-based features.
-
 💻 Featured Projects
 
 <table> <tr> <td width="50%">
@@ -190,44 +167,16 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 </a>
 
-</div>
 
-🏆 Achievements & Leadership
-🏅	Achievement
-🥉	3rd Prize — Interdepartmental Extempore Competition in Mother Tongue
-🥇	1st Prize & Gold Medal — Interdepartmental Cricket Competition
-🏆	Hackathon / SIH Project Development
-📚	Head — Literacy Club
-📰	Editor — Department Magazine
-🎉	Coordinator — Amiphoria 4.0
+## 🏆 Achievements & Leadership
 
-🎯 My Current Focus
-        ┌─────────────────────┐
-        │   Artificial        │
-        │   Intelligence      │
-        │      & ML           │
-        └──────────┬──────────┘
-                   │
-        ┌──────────▼──────────┐
-        │    Data + APIs      │
-        └──────────┬──────────┘
-                   │
-        ┌──────────▼──────────┐
-        │   Web Development   │
-        └──────────┬──────────┘
-                   │
-        ┌──────────▼──────────┐
-        │ Real-World Projects │
-        └──────────┬──────────┘
-                   │
-        ┌──────────▼──────────┐
-        │   Better Solutions  │
-        └─────────────────────┘
+🥉 **3rd Prize** — Interdepartmental Extempore Competition in Mother Tongue  
+🥇 **1st Prize & Gold Medal** — Interdepartmental Cricket Competition  
+🏆 **Hackathon / SIH Project Development**  
+📚 **Head** — Literacy Club  
+📰 **Editor** — Department Magazine  
+🎉 **Coordinator** — Amiphoria 4.0
 Learning → Building → Experimenting → Improving
-🌐 Let's Connect
-
-<div align="center">
-
 <a href="https://github.com/anuska-ani"> <img src="https://img.shields.io/badge/GitHub-anuska--ani-181717?style=for-the-badge&logo=github"/> </a>
 
 <a href="https://linkedin.com/in/anuskapati"> <img src="https://img.shields.io/badge/LinkedIn-Anuska%20Pati-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
