@@ -4,26 +4,22 @@
 
 ### AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
-<p>
-<i>Building practical solutions with AI, data & web technologies.</i>
-</p>
+**Building practical solutions with AI, data & web technologies.**
 
-<p>
-<a href="https://github.com/anuska-ani">GitHub</a> ·
-<a href="https://linkedin.com/in/anuskapati">LinkedIn</a> ·
-<a href="https://leetcode.com/u/anuskaleets/">LeetCode</a> ·
-<a href="mailto:anuskapati3@gmail.com">Email</a>
-</p>
+[GitHub](https://github.com/anuska-ani) ·
+[LinkedIn](https://www.linkedin.com/in/anuskapati/) ·
+[LeetCode](https://leetcode.com/u/anuskaleets/) ·
+[Email](mailto:anuskapati3@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student who enjoys turning ideas into practical software.
 
-My interests lie at the intersection of Artificial Intelligence, Machine Learning, Web Development and Data. I particularly enjoy projects where technology can solve a real-world problem rather than simply demonstrating a concept.
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Web Development and Data**. I particularly enjoy projects where technology can solve a real-world problem rather than simply demonstrating a concept.
 
 - 🎓 B.Tech — Artificial Intelligence & Machine Learning
 - 🤖 Interested in AI/ML & intelligent applications
@@ -32,7 +28,7 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
 - 🏆 Interested in hackathons and real-world problem solving
 - 📚 Always learning something new
 
-> I learn best by building — Build → Break → Learn → Improve. 🚀
+I learn best by building — **Build → Break → Learn → Improve. 🚀**
 
 ---
 
@@ -41,8 +37,6 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
 ### 🌍 ROAMLY — Smart Travel & Tourism Platform
 
 A travel-focused web application designed to make exploring destinations easier, smarter and safer.
-
-**Current concept includes:**
 
 ```text
 📍 Destination Discovery
