@@ -34,7 +34,7 @@ JavaScript APIs Web Development
 
 <td width="50%">
 
-### 🍔 CravePoint
+##### 🍔 CravePoint
 
 Campus Cafeteria Ordering System
 
@@ -46,7 +46,7 @@ HTML CSS JavaScript
 
 <tr> <td width="50%">
 
-# 🤖 JARVIS
+##### 🤖 JARVIS
 
 Python Voice Assistant
 
@@ -58,7 +58,7 @@ Python AI Automation
 
 <td width="50%">
 
-# 🌦️ Weather Dashboard
+##### 🌦️ Weather Dashboard
 
 API-based Weather Application
 
@@ -70,7 +70,7 @@ JavaScript APIs HTML CSS
 
 <tr> <td width="50%">
 
-# 🎬 Mini Movie Explorer
+##### 🎬 Mini Movie Explorer
 
 Movie Discovery Application
 
@@ -82,7 +82,7 @@ JavaScript APIs
 
 <td width="50%">
 
-# 📊 Netflix SQL Analysis
+##### 📊 Netflix SQL Analysis
 
 Data Analysis Project
 
