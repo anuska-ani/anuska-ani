@@ -7,7 +7,7 @@ AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
 </div>
 
-🧠 About Me
+##🧠 About Me
 
 I'm a B.Tech Artificial Intelligence & Machine Learning student who enjoys turning ideas into practical software.
 
@@ -22,7 +22,7 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
 
 I learn best by building — Build → Break → Learn → Improve. 🚀
 
-💻 Featured Projects
+##💻 Featured Projects
 
 <table> <tr> <td width="50%">
 
