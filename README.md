@@ -22,7 +22,7 @@ I learn best by building — Build → Break → Learn → Improve. 🚀
 
 <table> <tr> <td width="50%">
 
-# 🌍 ROAMLY
+### 🌍 ROAMLY
 
 Smart Travel & Tourism Platform
 
@@ -34,7 +34,7 @@ JavaScript APIs Web Development
 
 <td width="50%">
 
-# 🍔 CravePoint
+### 🍔 CravePoint
 
 Campus Cafeteria Ordering System
 
