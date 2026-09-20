@@ -58,30 +58,6 @@ Python AI Automation
 
 <td width="50%">
 
-##### 🌦️ Weather Dashboard
-
-API-based Weather Application
-
-Interactive weather application using APIs to retrieve and display weather information.
-
-JavaScript APIs HTML CSS
-
-</td> </tr>
-
-<tr> <td width="50%">
-
-##### 🎬 Mini Movie Explorer
-
-Movie Discovery Application
-
-Explore movie information through API integration and a simple web interface.
-
-JavaScript APIs
-
-</td>
-
-<td width="50%">
-
 ##### 📊 Netflix SQL Analysis
 
 Data Analysis Project
@@ -94,7 +70,7 @@ SQL Data Analysis
 
 <tr> <td width="50%">
 
-# 🛒 Amazon Clone
+##### 🛒 Amazon Clone
 
 E-Commerce Front-End
 
@@ -114,20 +90,20 @@ Learning Building Experimenting
 
 </td> </tr> </table>
 
-🛠️ Tech Stack
+#### 🛠️ Tech Stack
 Languages
 
 <p> <img src="https://skillicons.dev/icons?i=python,c,cpp,js" /> </p>
 
-Web Development
+#### Web Development
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /> </p>
 
-Databases & Tools
+#### Databases & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" /> </p>
 
-Currently Exploring
+#### Currently Exploring
 
 <p> <img src="https://skillicons.dev/icons?i=python,react,mysql" /> </p>
 
