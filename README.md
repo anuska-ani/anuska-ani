@@ -1,13 +1,12 @@
 <div align="center">
 
-👋 Hi, I'm Anuska Pati
+## 👋 Hi, I'm Anuska Pati
 AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
 <p> <i>Building practical solutions with AI, data & web technologies.</i> </p>
 
 </div>
 
-##🧠
 I'm a B.Tech Artificial Intelligence & Machine Learning student who enjoys turning ideas into practical software.
 
 My interests lie at the intersection of Artificial Intelligence, Machine Learning, Web Development and Data. I particularly enjoy projects where technology can solve a real-world problem rather than simply demonstrating a concept.
