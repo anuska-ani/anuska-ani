@@ -5,8 +5,6 @@ AI & ML Student · Aspiring AI/ML Engineer · Web Developer
 
 <p> <i>Building practical solutions with AI, data & web technologies.</i> </p>
 
-<p> <a href="https://github.com/anuska-ani"> <img src="https://img.shields.io/badge/GitHub-anuska--ani-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/anuskapati"> <img src="https://img.shields.io/badge/LinkedIn-Anuska%20Pati-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://leetcode.com/u/anuskaleets/"> <img src="https://img.shields.io/badge/LeetCode-anuskaleets-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="mailto:anuskapati3@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-
 </div>
 
 🧠 About Me
