@@ -109,19 +109,19 @@ Languages
 
 AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 ## 🧠 LeetCode
-<p align="center">
+<p align="left">
 
-<a href="https://leetcode.com/u/subham2807/">
+<a href="https://leetcode.com/u/anuskaleets/">
 
-<img src="https://leetcode-stats-six.vercel.app/subham2807?theme=dark" alt="Subham's LeetCode Statistics"/>
+<img src="https://leetcode-stats-six.vercel.app/anuskaleets?theme=dark" alt="Anuska's LeetCode Statistics"/>
 
 </a>
 
 </p>
 
-<p align="center">
+<p align="left">
 
-<a href="https://leetcode.com/u/subham2807/">
+<a href="https://leetcode.com/u/anuskaleets/">
 
 <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
@@ -129,9 +129,9 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 
 </p>
 
-<p align="center">
+<p align="left">
 
-<img src="https://leetcode-stats-six.vercel.app/subham2807/graph?theme=dark&width=800" alt="Subham's LeetCode Submission Graph"/>
+<img src="https://leetcode-stats-six.vercel.app/anuskaleets/graph?theme=dark&width=800" alt="Anuska's LeetCode Submission Graph"/>
 
 </p>
 
