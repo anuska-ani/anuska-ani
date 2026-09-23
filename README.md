@@ -110,9 +110,12 @@ Languages
 AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 ## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anuskaleets?theme=dark\&font=baloo)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/anuskaleets/)
+<p align="center">
+
+<img src="https://leetcode-stats-six.vercel.app/subham2807/graph?theme=dark&width=800" alt="Subham's LeetCode Submission Graph"/>
+
+</p>
 
 # 📊 GitHub Stats:
 
