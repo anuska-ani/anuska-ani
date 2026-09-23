@@ -109,7 +109,25 @@ Languages
 
 AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 ## 🧠 LeetCode
+<p align="center">
 
+<a href="https://leetcode.com/u/subham2807/">
+
+<img src="https://leetcode-stats-six.vercel.app/subham2807?theme=dark" alt="Subham's LeetCode Statistics"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/subham2807/">
+
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+</p>
 
 <p align="center">
 
