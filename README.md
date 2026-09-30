@@ -140,11 +140,6 @@ AI / ML · Data Analysis · APIs · IoT · Full-Stack Development · DSA
 ![](https://github-readme-stats.shion.dev/api?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=anuska-ani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuska-ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<div align="center">
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=anuska-ani&theme=dark&hide_border=false&layout=compact&langs_count=8)
-
-</div>
 
 ## 🏆 GitHub Trophies
 
